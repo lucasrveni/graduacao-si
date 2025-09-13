@@ -1,0 +1,2 @@
+# Projeto de Extensão
+Atuei como professor no curso "Crie Seu Primeiro Site", oferecido durante a Semana de Extensão. Com 4 horas de duração, a formação introduziu conceitos teóricos de HTML, CSS e JavaScript, e o desenvolvimento deste projeto prático. Meu papel foi orientar os alunos durante o desenvolvimento, garantindo que a proposta fosse simples e viável para conclusão dentro do tempo disponível.
